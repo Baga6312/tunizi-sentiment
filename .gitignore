@@ -1,4 +1,4 @@
 sentiment_model/
 __pycache__/
 *.pyc
-.env
+.env"dataset/all_lines_labeled.json" 
